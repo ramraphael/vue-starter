@@ -1,7 +1,7 @@
 {
-  "name": "vue-boilerplate",
+  "name": "vue-starter",
   "version": "1.0.0",
-  "description": "Boilerplate for Vue applications. Uses webpack and set up for sass/scss.",
+  "description": "Starter code for Vue applications. Spend less time tooling, and more time building, Vue/Sass/Webpack.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
